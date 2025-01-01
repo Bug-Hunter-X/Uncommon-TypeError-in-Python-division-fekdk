@@ -1,0 +1,3 @@
+# Uncommon TypeError in Python division
+
+This repository demonstrates an example of an uncommon error in Python that may arise from unexpected data types being used in arithmetic operations.  Specifically, the bug involves attempting to divide an integer by a string, leading to a TypeError.  The provided solution enhances the error handling to explicitly address TypeErrors, resulting in more robust code.
